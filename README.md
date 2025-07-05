@@ -7,3 +7,10 @@ what are the scripts in here:
 - simple to use (ESX core only atm but full costumisable needs no aditional scripts)
 
 https://discord.gg/GMu6deTY9s
+
+Free Scripts that are in the pack
+
+- Aduty System (with Discord ids)
+- Anti ammo count (blocks the standard GTAV ammo count)
+- Revive station
+- Voicemarker ( custumisable ranges)
